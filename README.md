@@ -81,7 +81,7 @@ module jkff(j, k, clk, rst, q, qbar);
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1621" height="913" alt="Screenshot 2025-12-05 091942" src="https://github.com/user-attachments/assets/0da718f5-6b0f-4cbe-bb13-0bcc324128d8" />
+0bcc32412<img width="1621" height="913" alt="Screenshot 2025-12-05 091942" src="https://github.com/user-attachments/assets/0da718f5-6b0f-4cbe-bb13-8d8" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1618" height="909" alt="Screenshot 2025-12-05 092033" src="https://github.com/user-attachments/assets/d1868a7f-9f10-40be-aa16-e9ae77862471" />
